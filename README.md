@@ -14,7 +14,7 @@ I'm a passionate and curious **Cybersecurity Student** 🛡️, delving deep int
 ## 💻 Technical Skills
 
 
-Programming Languages: Python, C, Java,JEE
+Programming Languages: Python, C, Java
 Network technologies: Sockets, RPC, RMI, Packet Tracer
 Tools: Wireshark, Metasploit, Burp Suite, Nmap
 Administration :  Windows, BDD Oracle, UNIX
